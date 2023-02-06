@@ -162,12 +162,6 @@ body {
 .btn:active {
     background-color: #25493c;
 }
-.btn a{
-    background: url('../images/icon-cart.svg') 0 0 no-repeat;
-    padding: 0 0 0 25px;
-    color:hsl(0, 0%, 100%);
-    font-size: 13px;
-}
 .attribution { 
     font-size: 11px; 
     text-align: center; 
