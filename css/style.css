@@ -153,6 +153,11 @@ body {
     background-color: #3d8168;
     padding: 15px 30px;
     border-radius: 7px;
+    color:hsl(0, 0%, 100%);
+    font-size: 13px;
+}
+.btn img {
+    margin: 0 5px 0 0;
 }
 .btn:active {
     background-color: #25493c;
