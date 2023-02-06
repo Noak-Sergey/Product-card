@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component
 
+Visit my site: https://noak-sergey.github.io/Product-card/
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
